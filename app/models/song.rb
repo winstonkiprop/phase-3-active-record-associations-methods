@@ -13,4 +13,5 @@ class Song < ActiveRecord::Base
 
 self.find_artist artists: "Drake" 
   end
-end 
+end
+end
